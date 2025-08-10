@@ -5,3 +5,5 @@
 
 */
 let userName = jeevan;  /*Camel Casing */
+var num=1;
+const ans=10;

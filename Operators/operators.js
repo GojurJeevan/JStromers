@@ -23,7 +23,14 @@ Types:
 
 
 let a=2;
-
 a **= a*= a*=2;
-
 console.log(a);
+
+
+let b=10;
+let c="10";
+console.log(b==c);
+
+
+let d=10;
+console.log(d%4);

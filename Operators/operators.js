@@ -12,6 +12,7 @@ Types:
     =,+=,-=,*=,/=,%=,**=
 3.Comparision Operator:
     ==,!=,>,<,>=,<=,===,!==
+=== : strict value checker it validates both value and datatype
 
 
 

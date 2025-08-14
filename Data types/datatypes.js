@@ -4,9 +4,7 @@
 3.var
 
 */
-let userName = jeevan;  /*Camel Casing */
-var num=1;
-const ans=10;
+let userName;  /*Camel Casing */
 
 
 
@@ -27,10 +25,25 @@ stores multiple values and mutable
 1.Array:collection of values with heterogenous values
 2.Object:represents key value pairs
 3.Array of Objects:declaring objects inside array
-
-
-
-
-
-
 */ 
+
+
+let array = [
+    {
+        name:"jeevan",
+        age:22,
+        fee:30000
+    },
+    {
+        name:"Harsha",
+        age:22,
+        fee:35000
+    },
+    {
+        name:"lucky",
+        age:19,
+        fee:20000
+    }
+]
+
+console.log(array[0].fee);

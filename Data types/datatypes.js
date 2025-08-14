@@ -57,3 +57,11 @@ let student ={
 
 console.log(student);
 console.log(student.name);
+
+
+let array1 = ["hello","world","great","day"]
+console.log(array1);
+console.log(array1[0]);
+console.log(array1[1]);
+console.log(array1[2]);
+console.log(array1[3]);

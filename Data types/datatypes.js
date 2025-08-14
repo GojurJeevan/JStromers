@@ -47,3 +47,13 @@ let array = [
 ]
 
 console.log(array[0].fee);
+
+
+let student ={
+    name:"Santhosh",
+    age:26,
+    fee:50000
+}
+
+console.log(student);
+console.log(student.name);

@@ -39,3 +39,6 @@ console.log(d%4);
 
 let ans=10;
 console.log(ans*2%5);
+
+let bns=100;
+console.log(bns%9**2);

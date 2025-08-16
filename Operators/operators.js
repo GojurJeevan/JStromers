@@ -35,3 +35,7 @@ console.log(b==c);
 
 let d=10;
 console.log(d%4);
+
+
+let ans=10;
+console.log(ans*2%5);
